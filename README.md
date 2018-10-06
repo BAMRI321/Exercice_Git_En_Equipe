@@ -7,10 +7,9 @@
   t1 est un exercice basé sur la maitise des formulaires et du CSS ( Récupération des données d'un formulaire)
   
   
-  t2 est un exercice centré sur la maitrise du CSS et du passage de données par la methode ```$_GET```
-  
+  t2 est un exercice centré sur la maitrise du CSS et du passage de données par la methode ``` $_GET ```
   
   # Outils
-     PHP 7
-     CSS 3
-     Bootstrap 4
+      PHP 7
+      CSS 3
+      Bootstrap 4
